@@ -1,13 +1,19 @@
-> Written with [StackEdit](https://stackedit.io/).
-> Written with [StackEdit](https://stackedit.io/).
-<h1 align="center">Hi 👋, We're WiDS Datathon 2025 UCLA Team 2</h1>  
-<h3 align="center">ADHD Female Brain Prediction</h3>
--   🔭 currently working on **The Mysteries of the Female Brain: Sex Patterns in ADHD**
-    
--   👯 We collaborate on **WiDS Datathon 2025 Kaggle Competition**
-    
--   🤝 I’m looking for help with **Predictive Modeling & Data Analysis**
-    
+# WiDS Datathon 2025 - UCLA Team 2
+
+### 🔭 Currently working on:
+
+**The Mysteries of the Female Brain: Sex Patterns in ADHD**  
+https://www.kaggle.com/competitions/widsdatathon2025
+
+### 👯 We collaborate on:
+
+**WiDS Datathon 2025 Kaggle Competition**  
+https://community.widsworldwide.org
+
+### 🤝 We’re looking for help with:
+
+**Predictive Modeling & Data Analysis**  
+https://github.com/WiDS-Datathon-2025-UCLA-Team-2
 
 ## Team Members
 
@@ -24,7 +30,7 @@
 
 ### About the Competition
 
-The **Women in Data Science (WiDS) Datathon 2025** is an annual Kaggle competition designed to encourage women in AI and data science to develop their skills through real-world machine learning challenges. This initiative is part of the **Break Through Tech AI Program**, which aims to bridge the gender gap in AI by providing hands-on experience and mentorship.
+The **Women in Data Science (WiDS) Datathon 2025** is an annual **Kaggle** competition designed to encourage women in AI and data science to develop their skills through real-world machine learning challenges. This initiative is part of the **Break Through Tech AI Program**, which aims to bridge the gender gap in AI by providing hands-on experience and mentorship.
 
 ### Objective
 
@@ -69,3 +75,9 @@ Our project uses data from the **Healthy Brain Network (HBN)**, including:
 -   **Brain connectivity matrix heatmap**
 -   **Feature importance analysis**
 -   **Distribution of ADHD vs. Non-ADHD participants by sex**
+
+For questions, feel free to contact any of our team members or open an issue in our GitHub repository.
+
+----------
+
+https://github.com/WiDS-Datathon-2025-UCLA-Team-2
