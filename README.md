@@ -10,11 +10,6 @@ https://www.kaggle.com/competitions/widsdatathon2025
 **WiDS Datathon 2025 Kaggle Competition**  
 https://community.widsworldwide.org
 
-### 🤝 We’re looking for help with:
-
-**Predictive Modeling & Data Analysis**  
-https://github.com/WiDS-Datathon-2025-UCLA-Team-2
-
 ## Team Members
 
 -   **Itzalen Lopez** - [GitHub](https://github.com/Itz-creator07)
