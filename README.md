@@ -72,9 +72,12 @@ Our project uses data from the **Healthy Brain Network (HBN)**, including:
 
 ### Visualizations
 
--   **Brain connectivity matrix heatmap**
--   **Feature importance analysis**
--   **Distribution of ADHD vs. Non-ADHD participants by sex**
+-   **Feature Correlation Matrix Heatmap**  
+    ![Feature Correlation Matrix Heatmap](https://i.postimg.cc/wxLfVp0n/Feature-Correlation-Matrix-Heatmap.png)
+
+-   **Distribution of ADHD vs. Non-ADHD Participants by Sex**  
+    ![Distribution of ADHD vs. Non-ADHD Participants by Sex](https://i.postimg.cc/GpKgvJKt/adhd-distribuition.png)
+
 
 For questions, feel free to contact any of our team members or open an issue in our GitHub repository.
 
