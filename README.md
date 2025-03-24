@@ -5,7 +5,7 @@
 | Name               | GitHub Handle                |
 | ------------------ | ---------------------------- |
 | **Itzalen Lopez**   | [@Itz-creator07](https://github.com/Itz-creator07) |
-| **Shubhangi Waldiya** | [@subhangibw](https://github.com/subhangibw) |
+| **Shubhangi Waldiya** | [@shubhangibw](https://github.com/shubhangibw) |
 | **Ami Rajesh**      | [@Arajesh03](https://github.com/Arajesh03) |
 | **Mariia Nikitash** | [@MariiaNikitash](https://github.com/MariiaNikitash) |
 
