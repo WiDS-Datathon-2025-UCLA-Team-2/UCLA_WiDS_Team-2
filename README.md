@@ -4,10 +4,10 @@
 
 | Name               | GitHub Handle                |
 | ------------------ | ---------------------------- |
-| **Itzalen Lopez**   | [@Itz-creator07](https://github.com/Itz-creator07) |
+| **Mariia Nikitash**   |  [@MariiaNikitash](https://github.com/MariiaNikitash)  |
 | **Shubhangi Waldiya** | [@shubhangibw](https://github.com/shubhangibw) |
 | **Ami Rajesh**      | [@Arajesh03](https://github.com/Arajesh03) |
-| **Mariia Nikitash** | [@MariiaNikitash](https://github.com/MariiaNikitash) |
+| **Itzalen Lopez** |[@Itz-creator07](https://github.com/Itz-creator07) |
 
 ### Teaching Assistant
 
