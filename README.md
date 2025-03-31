@@ -396,10 +396,28 @@ As you answer the questions below, consider using not only text, but also illust
 
 <div align="left">
   <a href="https://www.notion.so">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Logo" width="110" />
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Logo" width="110" style="margin:5px;" />
   </a>
-  <span style="margin-left: 10px; vertical-align: middle;">
-   Notion is an all-in-one productivity platform with AI-powered features that enhance teamwork and collaboration. It helps manage tasks, due dates, and organization effectively.
-  </span>
+  <a href="https://colab.research.google.com/">
+    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab Logo" width="110" style="margin:5px;" />
+  </a>
+  <a href="https://jupyter.org/">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Logo" width="110" style="margin:5px;" />
+  </a>
+  <a href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Logo" width="110" style="margin:5px;" />
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Logo" width="110" style="margin:5px;" />
+  </a>
+  <a href="https://matplotlib.org/">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib Logo" width="110" style="margin:5px;" />
+  </a>
+  <a href="https://scikit-learn.org/">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Logo" width="110" style="margin:5px;" />
+  </a>
+  <a href="https://docs.conda.io/en/latest/">
+    <img src="https://img.shields.io/badge/Conda-342B029?style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda Logo" width="110" style="margin:5px;" />
+  </a>
 </div>
 
