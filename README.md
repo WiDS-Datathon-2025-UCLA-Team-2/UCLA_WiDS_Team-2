@@ -1,6 +1,6 @@
 # WiDS Datathon 2025 - UCLA Team 2
 
-The WiDS Datathon challenge us to uncover the mysteries of the female brain, particularly the unique sex patterns observed in ADHD. By diving deep into functional connectivity and neural interactions, our research aims to reveal how the female brain differs in its response to ADHD. These insights could pave the way for more personalized, sex-specific approaches in ADHD diagnosis and treatment, ultimately demystifying the complex neural underpinnings that contribute to behavioral differences.
+The WiDS Datathon challenged us to uncover the mysteries of the female brain, particularly the unique sex patterns observed in ADHD. By diving deep into functional connectivity and neural interactions, our research aims to reveal how the female brain differs in its response to ADHD. These insights could pave the way for more personalized, sex-specific approaches in ADHD diagnosis and treatment, ultimately demystifying the complex neural underpinnings that contribute to behavioral differences.
 
 
 
@@ -324,26 +324,54 @@ Our project leverages data from the **Healthy Brain Network (HBN)**, which inclu
 ---
 
 <a id="model-development"></a>
+
 ## 🧠 Model Development
 
-- **Model(s) Used:**
-    - Regression models and classification algorithms to predict ADHD diagnosis and sex
-    - Hyperparameter tuning for optimal model performance
+**Describe (as applicable):**
 
-- **Training Setup:**
-    - Data split for training and validation
-    - Evaluation metric: **Accuracy** and **F1 score**
+- **Model(s) Used:**  
+  - Experiments included Decision Trees, Random Forest, Logistic Regression, XGBoost, and K-Nearest Neighbors (KNN).  
+  - The final model combined Decision Trees and Random Forest, achieving the highest accuracy.
+
+- **Feature Selection & Hyperparameter Tuning Strategies:**  
+  - Feature selection was guided by exploratory data analysis (e.g., correlation analysis using functional MRI connectome matrices).  
+  - Hyperparameter tuning (e.g., grid search for maximum tree depth, regularization parameters) was performed to optimize model performance.
+
+- **Training Setup:**  
+  - Data was split into training and validation sets.  
+  - Evaluation metrics included accuracy and F1 score, with baseline performance established using Logistic Regression.
+
 
 ---
 <a id="results-and-key-findings"></a>
+
 ## 📈 Results & Key Findings
 
-- **Kaggle Leaderboard Score:** [Insert score here]
-- **Model performance:** High prediction accuracy across both ADHD diagnosis and sex classification tasks
-- **Key Insights:**
-    - Strong correlation between brain activity patterns and ADHD diagnosis in females
-    - **Differentiated patterns** between male and female ADHD participants
-<a id="impact-narrative"></a>
+**Describe (as applicable):**
+
+- **Performance Metrics:**  
+  - Overall, the model achieved a Kaggle leaderboard accuracy of **76.031%**.  
+  - Detailed metrics (e.g., F1 scores, cross-validation scores) are provided for each model variant.
+
+- **Overall Model Performance:**  
+  - The combined Decision Trees and Random Forest approach delivered the best performance among the models explored.
+  
+- **Performance Across Different Subgroups:**  
+  - (If applicable, describe model performance across different skin tones or demographic subgroups to evaluate fairness.)
+  
+- **Insights from Model Fairness Evaluation:**  
+  - Preliminary fairness assessments indicate consistent performance across evaluated subgroups.  
+  - Future work will include more comprehensive fairness analyses and bias mitigation strategies.
+
+**Potential Visualizations to Include:**
+
+- Confusion Matrix  
+- Precision-Recall Curve  
+- Feature Importance Plot  
+- Prediction Distribution  
+- Outputs from Fairness or Explainability Tools
+
+
 ---
 <a id="impact-narrative"></a>
 ## **🖼️ Impact Narrative**
@@ -368,28 +396,33 @@ Overall, our findings aim to bridge the gap between neuroscience research and cl
 As you answer the questions below, consider using not only text, but also illustrations, annotated visualizations, poetry, or other creative techniques to make your work accessible to a wider audience.
 
 <a id="next-steps--future-improvements"></a>
+
 ## 🚀 Next Steps & Future Improvements
 
-- Address model limitations by incorporating additional datasets (e.g., more brain scans)
-- Explore **neural network models** for deeper insights into complex patterns
-- Further evaluate **model fairness** and **bias** across different demographics
+- **Model Limitations:**  
+  - The current model, despite its high accuracy, may be sensitive to noise and outliers in the functional MRI data.  
+  - Limited demographic diversity in the training data might affect the model’s fairness and generalizability.
 
----
-**Address the following:**
+- **Improvements with More Time/Resources:**  
+  - Perform extensive hyperparameter tuning and explore advanced deep learning architectures to capture more complex patterns.  
+  - Implement robust cross-validation techniques (e.g., nested cross-validation) to better assess model performance.  
+  - Enhance data preprocessing and feature engineering to reduce noise and improve feature representation.
 
-  
+- **Additional Datasets/Techniques to Explore:**  
+  - Integrate external neuroimaging datasets to validate model generalizability across different populations.  
+  - Investigate model explainability methods (e.g., SHAP, LIME) to gain insights into feature importance and decision-making processes.  
+  - Explore transfer learning approaches to leverage pre-trained models for similar neuroimaging tasks.
 
-* What are some of the limitations of your model?  
-* What would you do differently with more time/resources?  
-* What additional datasets or techniques would you explore?
 
   ---
 
 <a id="references--additional-resources"></a>
+
 ## 📄 References & Additional Resources
 
 ### Datasets and Competitions
-- **Healthy Brain Network (HBN) Data:** [HBN Official Website](https://www.healthbrainnetwork.org)
+- **Health Brain Network (HBN) Data:** [HBN Official Website](https://www.healthbrainnetwork.org/)
+
 - **Kaggle Competition:** [WiDS Datathon 2025](https://www.kaggle.com/competitions/widsdatathon2025)
 
 ### Organization & Task Management
@@ -420,4 +453,8 @@ As you answer the questions below, consider using not only text, but also illust
     <img src="https://img.shields.io/badge/Conda-342B029?style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda Logo" width="110" style="margin:5px;" />
   </a>
 </div>
+
+
+
+
 
