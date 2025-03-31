@@ -346,21 +346,12 @@ Our project leverages data from the **Healthy Brain Network (HBN)**, which inclu
 
 ## 📈 Results & Key Findings
 
-**Describe (as applicable):**
-
 - **Performance Metrics:**  
   - Overall, the model achieved a Kaggle leaderboard accuracy of **76.031%**.  
   - Detailed metrics (e.g., F1 scores, cross-validation scores) are provided for each model variant.
 
 - **Overall Model Performance:**  
   - The combined Decision Trees and Random Forest approach delivered the best performance among the models explored.
-  
-- **Performance Across Different Subgroups:**  
-  - (If applicable, describe model performance across different skin tones or demographic subgroups to evaluate fairness.)
-  
-- **Insights from Model Fairness Evaluation:**  
-  - Preliminary fairness assessments indicate consistent performance across evaluated subgroups.  
-  - Future work will include more comprehensive fairness analyses and bias mitigation strategies.
 
 **Potential Visualizations to Include:**
 
