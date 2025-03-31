@@ -1,7 +1,7 @@
 # WiDS Datathon 2025 - UCLA Team 2
-## Impact Narrative
 
-Welcome to our project The WiDS Datathon challenges us to uncover the mysteries of the female brain, particularly the unique sex patterns observed in ADHD. By diving deep into functional connectivity and neural interactions, our research aims to reveal how the female brain differs in its response to ADHD. These insights could pave the way for more personalized, sex-specific approaches in ADHD diagnosis and treatment, ultimately demystifying the complex neural underpinnings that contribute to behavioral differences.
+The WiDS Datathon challenged us to uncover the mysteries of the female brain, particularly the unique sex patterns observed in ADHD. By diving deep into functional connectivity and neural interactions, our research aims to reveal how the female brain differs in its response to ADHD. These insights could pave the way for more personalized, sex-specific approaches in ADHD diagnosis and treatment, ultimately demystifying the complex neural underpinnings that contribute to behavioral differences.
+
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ Welcome to our project The WiDS Datathon challenges us to uncover the mysteries 
 [WiDS Datathon 2025 Kaggle Competition](https://www.kaggle.com/competitions/widsdatathon2025)
 
 ---
-
+<a id="team-members"></a>
 ### 👯 Team Members
 
 | Name               | GitHub Handle                | Contribution                                   |
@@ -44,7 +44,7 @@ Welcome to our project The WiDS Datathon challenges us to uncover the mysteries 
 
 ---
 
-
+<a id="project-highlights"></a>
 ## **🎯 Project Highlights**
 
 - First place: **UCLA_WiDS_Team_2** out of **87 teams** at Break Through Tech program.
@@ -144,6 +144,7 @@ Welcome to our project The WiDS Datathon challenges us to uncover the mysteries 
 </div>
 
 ---
+<a id="setup-and-execution"></a>
 ## ⚙️ Setup & Execution  
 
 Follow these step-by-step instructions to run this repository on **Google Colab** and **GitHub**.  
@@ -261,7 +262,7 @@ This structured approach ensures users:
 
 
 
-
+<a id="project-overview"></a>
 ## 🏗️ Project Overview
 
 ### About the Competition
@@ -284,7 +285,7 @@ ADHD diagnosis can be challenging, especially in females, due to symptom present
 - Contribute to **personalized treatment** options for ADHD
 
 ---
-
+<a id="data-exploration"></a>
 ## 📊 Data Exploration
 
 ### Dataset Description
@@ -322,7 +323,7 @@ Our project leverages data from the **Healthy Brain Network (HBN)**, which inclu
 
 ---
 
-
+<a id="model-development"></a>
 ## 🧠 Model Development
 
 - **Model(s) Used:**
@@ -334,7 +335,7 @@ Our project leverages data from the **Healthy Brain Network (HBN)**, which inclu
     - Evaluation metric: **Accuracy** and **F1 score**
 
 ---
-
+<a id="results-and-key-findings"></a>
 ## 📈 Results & Key Findings
 
 - **Kaggle Leaderboard Score:** [Insert score here]
@@ -342,8 +343,9 @@ Our project leverages data from the **Healthy Brain Network (HBN)**, which inclu
 - **Key Insights:**
     - Strong correlation between brain activity patterns and ADHD diagnosis in females
     - **Differentiated patterns** between male and female ADHD participants
-
+<a id="impact-narrative"></a>
 ---
+<a id="impact-narrative"></a>
 ## **🖼️ Impact Narrative**
 
 **WiDS Challenge:**
@@ -365,6 +367,7 @@ Overall, our findings aim to bridge the gap between neuroscience research and cl
 
 As you answer the questions below, consider using not only text, but also illustrations, annotated visualizations, poetry, or other creative techniques to make your work accessible to a wider audience.
 
+<a id="next-steps--future-improvements"></a>
 ## 🚀 Next Steps & Future Improvements
 
 - Address model limitations by incorporating additional datasets (e.g., more brain scans)
@@ -382,7 +385,7 @@ As you answer the questions below, consider using not only text, but also illust
 
   ---
 
-
+<a id="references--additional-resources"></a>
 ## 📄 References & Additional Resources
 
 ### Datasets and Competitions
@@ -399,5 +402,4 @@ As you answer the questions below, consider using not only text, but also illust
    Notion is an all-in-one productivity platform with AI-powered features that enhance teamwork and collaboration. It helps manage tasks, due dates, and organization effectively.
   </span>
 </div>
-
 
