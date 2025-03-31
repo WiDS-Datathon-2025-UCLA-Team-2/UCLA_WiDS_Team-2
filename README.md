@@ -424,35 +424,79 @@ As you answer the questions below, consider using not only text, but also illust
 
 - **Kaggle Competition:** [WiDS Datathon 2025](https://www.kaggle.com/competitions/widsdatathon2025)
 
-### Organization & Task Management
+## Additional Resources
 
-<div align="left">
-  <a href="https://www.notion.so">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Logo" width="110" style="margin:5px;" />
+- **GitHub**: [GitHub](https://github.com/)
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+         alt="GitHub Logo"
+         width="110"
+         style="vertical-align:middle; margin-left:5px;" />
   </a>
+
+- **Notion**: [Notion](https://www.notion.so/)
+  <a href="https://www.notion.so/">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"
+         alt="Notion Logo"
+         width="110"
+         style="vertical-align:middle; margin-left:5px;" />
+  </a>
+
+- **Google Colab**: [Google Colab](https://colab.research.google.com/)
   <a href="https://colab.research.google.com/">
-    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab Logo" width="110" style="margin:5px;" />
+    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"
+         alt="Google Colab Logo"
+         width="110"
+         style="vertical-align:middle; margin-left:5px;" />
   </a>
-  <a href="https://jupyter.org/">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Logo" width="110" style="margin:5px;" />
-  </a>
-  <a href="https://numpy.org/">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Logo" width="110" style="margin:5px;" />
-  </a>
-  <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Logo" width="110" style="margin:5px;" />
-  </a>
-  <a href="https://matplotlib.org/">
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib Logo" width="110" style="margin:5px;" />
-  </a>
-  <a href="https://scikit-learn.org/">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Logo" width="110" style="margin:5px;" />
-  </a>
-  <a href="https://docs.conda.io/en/latest/">
-    <img src="https://img.shields.io/badge/Conda-342B029?style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda Logo" width="110" style="margin:5px;" />
-  </a>
-</div>
 
+- **Jupyter**: [Jupyter](https://jupyter.org/)
+  <a href="https://jupyter.org/">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"
+         alt="Jupyter Logo"
+         width="110"
+         style="vertical-align:middle; margin-left:5px;" />
+  </a>
+
+- **NumPy**: [NumPy](https://numpy.org/)
+  <a href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
+         alt="NumPy Logo"
+         width="110"
+         style="vertical-align:middle; margin-left:5px;" />
+  </a>
+
+- **Pandas**: [Pandas](https://pandas.pydata.org/)
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
+         alt="Pandas Logo"
+         width="110"
+         style="vertical-align:middle; margin-left:5px;" />
+  </a>
+
+- **Matplotlib**: [Matplotlib](https://matplotlib.org/)
+  <a href="https://matplotlib.org/">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"
+         alt="Matplotlib Logo"
+         width="110"
+         style="vertical-align:middle; margin-left:5px;" />
+  </a>
+
+- **scikit-learn**: [scikit-learn](https://scikit-learn.org/)
+  <a href="https://scikit-learn.org/">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
+         alt="scikit-learn Logo"
+         width="110"
+         style="vertical-align:middle; margin-left:5px;" />
+  </a>
+
+- **Conda**: [Conda](https://docs.conda.io/en/latest/)
+  <a href="https://docs.conda.io/en/latest/">
+    <img src="https://img.shields.io/badge/Conda-342B029?style=for-the-badge&logo=anaconda&logoColor=white"
+         alt="Conda Logo"
+         width="110"
+         style="vertical-align:middle; margin-left:5px;" />
+  </a>
 
 
 
