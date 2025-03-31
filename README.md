@@ -421,7 +421,6 @@ As you answer the questions below, consider using not only text, but also illust
 ## 📄 References & Additional Resources
 
 ### Datasets and Competitions
-- **Health Brain Network (HBN) Data:** [HBN Official Website](https://www.healthbrainnetwork.org/)
 
 - **Kaggle Competition:** [WiDS Datathon 2025](https://www.kaggle.com/competitions/widsdatathon2025)
 
