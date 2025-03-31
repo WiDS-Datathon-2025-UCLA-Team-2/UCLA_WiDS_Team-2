@@ -1,6 +1,22 @@
-# Test_Final_Readme
-Test
 # WiDS Datathon 2025 - UCLA Team 2
+## Impact Narrative
+
+The WiDS Datathon challenges us to uncover the mysteries of the female brain, particularly the unique sex patterns observed in ADHD. By diving deep into functional connectivity and neural interactions, our research aims to reveal how the female brain differs in its response to ADHD. These insights could pave the way for more personalized, sex-specific approaches in ADHD diagnosis and treatment, ultimately demystifying the complex neural underpinnings that contribute to behavioral differences.
+
+
+## Table of Contents
+
+- [Team Members](#team-members)
+- [Project Highlights](#project-highlights)
+- [Setup and Execution](#setup-and-execution)
+- [Project Overview](#project-overview)
+- [Data Exploration](#data-exploration)
+- [Model Development](#model-development)
+- [Results and Key Findings](#results-and-key-findings)
+- [Impact Narrative](#impact-narrative)
+- [Next Steps & Future Improvements](#next-steps--future-improvements)
+- [References & Additional Resources](#references--additional-resources)
+
 
 ### 🏁 Completed Projects | 📚 Project Archive
 
@@ -279,27 +295,32 @@ Our project leverages data from the **Healthy Brain Network (HBN)**, which inclu
 - Behavioral and parenting assessments
 - ADHD diagnostic labels
 
-### Data Processing & Exploration
+### Exploratory Data Analysis (EDA) & Visualization 
 
-- **Preprocessing Steps:**
-    - Handling missing data
-    - Encoding categorical variables (e.g., one-hot encoding)
-    - Feature normalization and standardization
-
-- **Exploratory Data Analysis (EDA):**
+ 
+  - Analyze distributions and relationships within the data (e.g., socio-demographic variables and MRI metrics).
+  - Process categorical data and combine it with the functional connectome matrices.
+  - Identify outliers, missing values, and noise to inform feature engineering and preprocessing strategies.
+  
+**Visualizations**
     - Visualized **brain activity patterns** and their link to ADHD
     - Examined **demographic distributions** and ADHD correlations
     - Assessed **feature importance** in model development
 
-### Visualizations
-
-- **Feature Correlation Matrix Heatmap**  
+- **Feature Correlation Matrix Heatmap for Multiple Brain Regions**  
 ![Feature Correlation Matrix Heatmap](https://i.postimg.cc/wxLfVp0n/Feature-Correlation-Matrix-Heatmap.png)
 
-- **Distribution of ADHD vs. Non-ADHD Participants by Sex**  
+- **Distribution of ADHD vs. Non-ADHD Participants by Demographics**  
 ![Distribution of ADHD vs. Non-ADHD Participants by Sex](https://i.postimg.cc/GpKgvJKt/adhd-distribuition.png)
 
+**MRI Scan Outcome** 
+![undefined-Imgur](https://i.postimg.cc/W1TfsnXN/undefined-Imgur.png)
+
+**Social Demographic Emotions** 
+![undefined-Imgur](https://i.postimg.cc/QNgywwJ4/SDQ-SDQ-Emotional-Problems.png)
+
 ---
+
 
 ## 🧠 Model Development
 
@@ -324,12 +345,22 @@ Our project leverages data from the **Healthy Brain Network (HBN)**, which inclu
 ---
 ## **🖼️ Impact Narrative**
 
-  **Answer the relevant questions below based on your competition:**
+**WiDS Challenge:**
 
-  **WiDS challenge:**
+1. **What brain activity patterns are associated with ADHD; are they different between males and females, and, if so, how?**
 
-  1. What brain activity patterns are associated with ADHD; are they different between males and females, and, if so, how?  
-2. How could your work help contribute to ADHD research and/or clinical care?
+   Our analysis of functional connectivity suggests that individuals with ADHD exhibit distinct neural activity patterns compared to those without ADHD. In particular, disruptions in the communication between regions responsible for attention, executive control, and emotional regulation were observed. Furthermore, preliminary results indicate potential sex-specific differences, where females may show alternative connectivity patterns or varying levels of activation in certain brain networks compared to males. These differences could be influenced by developmental, hormonal, or genetic factors, emphasizing the need for tailored approaches when studying ADHD.
+
+2. **How could your work help contribute to ADHD research and/or clinical care?**
+
+   By applying advanced machine learning techniques to functional MRI connectome data alongside socio-demographic variables, our work enhances the understanding of ADHD’s neural underpinnings. This improved insight can aid in:
+   
+   - **Early Diagnosis:** Providing biomarkers based on brain connectivity that may support earlier and more accurate identification of ADHD.
+   - **Personalized Treatment:** Informing the development of targeted therapies that account for individual differences, including sex-specific neural profiles.
+   - **Research Advancement:** Offering a framework for integrating complex neuroimaging data with clinical metrics, thereby contributing to a more comprehensive model of ADHD that can be validated in larger studies.
+
+Overall, our findings aim to bridge the gap between neuroscience research and clinical practice, ultimately improving the diagnostic and therapeutic landscape for ADHD.
+
 
 As you answer the questions below, consider using not only text, but also illustrations, annotated visualizations, poetry, or other creative techniques to make your work accessible to a wider audience.
 
@@ -367,3 +398,5 @@ As you answer the questions below, consider using not only text, but also illust
    Notion is an all-in-one productivity platform with AI-powered features that enhance teamwork and collaboration. It helps manage tasks, due dates, and organization effectively.
   </span>
 </div>
+
+
