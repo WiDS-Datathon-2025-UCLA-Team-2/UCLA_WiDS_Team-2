@@ -99,9 +99,7 @@ The WiDS Datathon challenged us to uncover the mysteries of the female brain, pa
   - F1 Score = 0.8174  
 
 - **K-Nearest Neighbors (KNN):**  
-  - **k=10:** Accuracy = 0.7434  
-  - **k=100:** Accuracy = 0.7434  
-  - **k=500:** Accuracy = 0.7434  
+  - Highest Accuracy: 0.55
 
 ---
 
