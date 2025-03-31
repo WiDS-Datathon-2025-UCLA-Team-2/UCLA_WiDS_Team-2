@@ -72,10 +72,7 @@ The WiDS Datathon challenged us to uncover the mysteries of the female brain, pa
 ### Models Explored & Their Metrics
 
 - **Decision Trees:**  
-  - *Max Depth=3:* Accuracy = 0.5247  
-  - *Max Depth=4:* Accuracy = 0.5714  
-  - *Max Depth=5:* Accuracy = 0.5522  
-  - *Max Depth=6:* Accuracy = 0.5302  
+  - Highest Accuracy: 0.69  
 
 - **Random Forest:**  
   - Accuracy = 0.66  
