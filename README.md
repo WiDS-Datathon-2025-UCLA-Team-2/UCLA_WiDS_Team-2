@@ -34,14 +34,11 @@ The WiDS Datathon challenged us to uncover the mysteries of the female brain, pa
 | **Mariia Nikitash**   | [@MariiaNikitash](https://github.com/Itz-creator07) | Data Understanding & Preprocessing, Feature Engineering, Model Development & Implementation    |
 | **Shubhangi Waldiya** | [@shubhangibw](https://github.com/subhangibw) | Data Understanding & Preprocessing, Model Development, Implementation & Evaluation |
 | **Ami Rajesh**      | [@Arajesh03](https://github.com/Arajesh03) | Data Preprocessing, Feature Engineering, Model Development & Evaluation       |
-| **Itzalen Lopez** | [@Itz-creator07](https://github.com/MariiaNikitash) | Exploratory Data Analysis (EDA), Data Visualization, Model Development, & GitHub README Project Implementation
-       |
-
+| **Itzalen Lopez** | [@Itz-creator07](https://github.com/MariiaNikitash) | Exploratory Data Analysis (EDA), Data Visualization, Model Development, & GitHub README Project Implementation |
 
 ### Teaching Assistant 👩‍🏫
 
 - **Babu Swagath**
-
 
 ---
 
