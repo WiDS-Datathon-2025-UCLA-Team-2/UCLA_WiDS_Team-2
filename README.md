@@ -328,8 +328,6 @@ Our project leverages data from the **Healthy Brain Network (HBN)**, which inclu
 
 ## 🧠 Model Development
 
-**Describe (as applicable):**
-
 - **Model(s) Used:**  
   - Experiments included Decision Trees, Random Forest, Logistic Regression, XGBoost, and K-Nearest Neighbors (KNN).  
   - The final model combined Decision Trees and Random Forest, achieving the highest accuracy.
