@@ -378,8 +378,6 @@ Our project leverages data from the **Healthy Brain Network (HBN)**, which inclu
 Overall, our findings aim to bridge the gap between neuroscience research and clinical practice, ultimately improving the diagnostic and therapeutic landscape for ADHD.
 
 
-As you answer the questions below, consider using not only text, but also illustrations, annotated visualizations, poetry, or other creative techniques to make your work accessible to a wider audience.
-
 <a id="next-steps--future-improvements"></a>
 
 ## 🚀 Next Steps & Future Improvements
