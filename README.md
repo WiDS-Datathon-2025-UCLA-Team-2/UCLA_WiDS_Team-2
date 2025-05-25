@@ -45,8 +45,8 @@ The WiDS Datathon challenged us to uncover the mysteries of the female brain, pa
 <a id="project-highlights"></a>
 ## **🎯 Project Highlights**
 
-- First place: **UCLA_WiDS_Team_2** out of **87 teams** at Break Through Tech program.
-- Ranked **64** on the final official Kaggle leaderboard.
+- UCLA_WiDS_Team_2: **1** out of **87 teams** from Break Through Tech AI at UCLA program.
+- Ranked **157** on the final official Kaggle leaderboard.
 - Developed a **multi-outcome machine learning model** to predict ADHD diagnosis and sex differentiation in females.
 - Used **functional MRI connectome matrices** and **socio-demographic data** to improve ADHD diagnostic processes.
 - Aimed to better understand **brain activity patterns** for personalized treatment of ADHD.
